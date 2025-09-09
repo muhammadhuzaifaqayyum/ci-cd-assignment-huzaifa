@@ -1,0 +1,9 @@
+{
+  "name": "ci-cd-assignment-huzaifa",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "lint": "echo \"Linting code...\" && exit 0",
+    "test": "echo \"Running tests...\" && exit 0"
+  }
+}
